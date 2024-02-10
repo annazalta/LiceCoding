@@ -1,4 +1,4 @@
-name: UI Tests
+name: UI Tests free CRM
 
 on: workflow_dispatch
 
